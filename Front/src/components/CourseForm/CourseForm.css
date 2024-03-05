@@ -1,0 +1,27 @@
+.containerCourse {
+    background-image: url('../../assets//fotos/banderas-mundo-historia.png'); /* Ruta de tu imagen de fondo */
+    background-size: cover;
+    padding-inline-start: 160px;
+    padding-top: 0px;
+    padding-block-end: 15px;
+    padding-right: 0px;
+  }
+
+  .ContainerForm{
+    padding-top: 20px;
+  }
+
+  .ContainerFromInt{
+    background-color: #1f69d7f3;
+    border-radius: 16px;
+  }
+
+  .Titulo{
+    color: rgb(19, 23, 125);
+    font-size: xx-large;
+  }
+
+  .Subtitulo{
+    color: rgb(19, 23, 125);
+    font-size: larger;
+  }

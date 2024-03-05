@@ -1,0 +1,38 @@
+
+.contenedorRoom{
+    /* background: url("https://st.depositphotos.com/1076754/3495/v/450/depositphotos_34951089-stock-illustration-flags-of-the-world-in.jpg") no-repeat center center fixed; */
+    /* display: flex; */
+    margin: 5em 1em 5em 2em;
+}
+
+.tituloUnirme{
+    font-size: 30px;
+    margin: 1em 1em 1em 20em;
+    
+}
+/* .contRoom{ */
+    /* margin:5em ; */
+    /* display:  inline-table; */
+    /* justify-content: center; */
+    /* } */
+/* .Cont{ */
+    /* margin: 1em 1em 1em 1em; */
+    /* background-color: blue; */
+/* } */
+/* .input{ */
+    /* margin: 1em 1em 1em 1em; */
+/* } */
+
+/* .SelectRoom{ */
+    /* padding: 0px; */
+/* } */
+
+.button{
+    margin: auto;
+    font-size: 20px;
+    background-color: rgba(0, 255, 242, 0.464);
+    border-radius: 4px;
+    padding-right: 10px;
+    padding-left: 10px;
+    cursor: pointer;
+}

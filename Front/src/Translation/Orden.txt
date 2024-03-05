@@ -1,0 +1,24 @@
+1. Navbar userNavbar
+2. searchbar 
+3. searchHome y Home
+4. Landing
+5. Login
+6. Register
+7. Logout
+8. About 
+9. Detail
+10. Detail review
+11. Detail create review
+12. Landing user
+13 User Promo card y User Course card
+14. card
+15. Favoritos 
+16. Carrito
+17. Configuracion 
+18. profile section
+19. Payment section y payment card
+20. Danger zone 
+21 Review section
+22 userDashboard y userDashboard card
+23. Errores en Register
+24. CalendarSection

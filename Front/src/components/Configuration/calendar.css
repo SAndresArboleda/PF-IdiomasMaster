@@ -1,0 +1,37 @@
+.rbc-event-label {
+    display: none !important
+}
+
+.rbc-header {
+    background-color: white;
+}
+
+.rbc-event {
+    padding: 0%;
+    font-size:large;
+    color:white;
+}
+
+.rbc-toolbar {
+    background-color: #3B82F6;
+}
+
+.rbc-btn-group.button {
+    background-color: #3B82F6;
+    
+}
+
+.rbc-toolbar button {
+    cursor: pointer;
+}
+
+.rbc-toolbar button:hover {
+    background-color: #3be6d7; 
+  }
+
+
+.rbc-toolbar button:active {
+    background-color: darkcyan; 
+  }
+
+ 
